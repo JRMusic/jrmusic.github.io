@@ -15,6 +15,11 @@
             padding: 0;
             font-size: 150%;
         }
+
+        p {
+            color: white;
+            font-size: 150%;
+        }
         
         #home {
             color: #313234;
@@ -24,7 +29,7 @@
 
         #music {
             background-color: #313234;
-            height: 725px;
+            height: 1450px;
         }
 
         .platform {
