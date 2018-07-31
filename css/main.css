@@ -6,10 +6,6 @@
         html, body {
             height: 100%;
         }
-
-        h1 {
-            font-size: 400%;
-        }
     
         body {
             font-family: font;
@@ -17,6 +13,7 @@
             text-align: center;
             margin: 0;
             padding: 0;
+            font-size: 150%;
         }
         
         #home {
@@ -27,14 +24,10 @@
 
         #music {
             background-color: #313234;
+            height: 725px;
         }
 
-        #instagram {
-            text-decoration: none;
-            font-size: 150%;
-            color: #313234;
-        }
-
-        .player {
-            margin: 50px;
+        .platform {
+            margin: auto;
+            padding: 20px;
         }
