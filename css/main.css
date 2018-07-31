@@ -1,0 +1,40 @@
+        @font-face {
+            font-family: font;
+            src: url('font.ttf');
+        }
+        
+        html, body {
+            height: 100%;
+        }
+
+        h1 {
+            font-size: 400%;
+        }
+    
+        body {
+            font-family: font;
+            background-color: white;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        
+        #home {
+            color: #313234;
+            font-size: 700%;
+            margin-bottom: 25px;
+        }
+
+        #music {
+            background-color: #313234;
+        }
+
+        #instagram {
+            text-decoration: none;
+            font-size: 150%;
+            color: #313234;
+        }
+
+        .player {
+            margin: 50px;
+        }
