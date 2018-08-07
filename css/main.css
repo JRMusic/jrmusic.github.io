@@ -34,7 +34,7 @@
 
         #music {
             background-color: #313234;
-            height: 1450px;
+            height: 1600px;
         }
 
         #contact {
@@ -47,6 +47,7 @@
             margin: auto;
             padding: 20px;
         }
-.link {
-    font-size: 120%;
-}
+
+        .link {
+            font-size: 120%;
+        }
