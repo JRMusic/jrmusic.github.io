@@ -6,6 +6,11 @@
         html, body {
             height: 100%;
         }
+
+        a {
+            text-decoration: none;
+            color: white;
+        }
     
         body {
             font-family: font;
@@ -32,7 +37,16 @@
             height: 1450px;
         }
 
+        #contact {
+            height: 200px;
+            background-color: #313234;
+            padding: 25px;
+        }
+
         .platform {
             margin: auto;
             padding: 20px;
         }
+.link {
+    font-size: 120%;
+}
